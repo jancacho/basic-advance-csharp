@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace BasicToAdvanceExercises
+{
+    class BasicAdvance
+    {
+        static void Main(string[] args)
+        {
+            //my first program in C# 
+            Console.WriteLine("Hello World");
+            Console.ReadKey();
+        }
+    }
+}
