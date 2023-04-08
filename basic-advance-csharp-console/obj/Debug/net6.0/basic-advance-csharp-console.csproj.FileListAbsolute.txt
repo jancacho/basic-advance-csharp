@@ -1,0 +1,15 @@
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\bin\Debug\net6.0\basic-advance-csharp-console.exe
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\bin\Debug\net6.0\basic-advance-csharp-console.deps.json
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\bin\Debug\net6.0\basic-advance-csharp-console.runtimeconfig.json
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\bin\Debug\net6.0\basic-advance-csharp-console.dll
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\bin\Debug\net6.0\basic-advance-csharp-console.pdb
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.csproj.AssemblyReference.cache
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.AssemblyInfoInputs.cache
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.AssemblyInfo.cs
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.csproj.CoreCompileInputs.cache
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.dll
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\refint\basic-advance-csharp-console.dll
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.pdb
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\basic-advance-csharp-console.genruntimeconfig.cache
+D:\ProjectX\basic-advance-csharp\basic-advance-csharp-console\obj\Debug\net6.0\ref\basic-advance-csharp-console.dll
